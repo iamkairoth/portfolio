@@ -81,9 +81,6 @@
     <h2 class="text-2xl font-bold text-center text-gray-300">
       "The only thing we have to fear is fear itself"    
     </h2>
-    <a href="https://www.goodreads.com/quotes/1000-the-only-thing-we-have-to-fear-is-fear-itself" target="_blank" class="text-sm text-gray-500 hover:text-gray-300 transition duration-300">
-      - Franklin D. Roosevelt
-    </a>
   </section>
 
   <section id="horizontal-scroll"></section>
@@ -91,7 +88,6 @@
       <About />
       <Projects />
       <Skills />
-      <Contact />
   </section>
 
 <!-- 

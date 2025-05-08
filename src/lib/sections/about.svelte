@@ -8,7 +8,7 @@
       <h2 class="text-5xl font-bold mb-4">{title}</h2>
       <br />
       <p class="text-lg leading-relaxed text-gray-300">
-        I'm Akshat, a data scientist and developer passionate about crafting interactive web experiences.
+        I'm Kai Roth, a data scientist and developer passionate about crafting interactive web experiences.
         This section can include a detailed bio, timeline, education, or a summary of your story.
       </p>     
     </div>
