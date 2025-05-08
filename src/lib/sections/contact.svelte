@@ -2,7 +2,7 @@
     export let title = "Contact";
   </script>
   
-  <div class="w-screen h-screen flex-shrink-0 bg-red-600 flex items-center justify-center">
+  <div class="w-screen h-screen flex-shrink-0 bg-slate-1000 flex items-center justify-center">
     <div class="max-w-4xl text-center px-8">
       <br />
       <h2 class="text-5xl font-bold mb-4">{title}</h2>
